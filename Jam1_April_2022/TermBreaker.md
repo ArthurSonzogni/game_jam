@@ -5,6 +5,7 @@
 [TermBreaker] is an inverted break-out game. You have to throw a set of balls from the top. Goal is to erase all the bricks before getting submerged.
 
 
+**Play online**: https://arthursonzogni.com/TermBreaker/
 
 Project repo: https://github.com/ArthurSonzogni/termBreaker
 
